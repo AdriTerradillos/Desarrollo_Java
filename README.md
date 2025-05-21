@@ -11,4 +11,6 @@
 
 ## <img src="./source/assets/css.png" style="width: 25px; vertical-align: sub; margin-right: 10px">[CSS](./source/css/README.md)
 
+## <img src="./source/assets/cursor-app-icon.png" style="width: 25px; vertical-align: sub; margin-right: 10px">[CURSOR](./source/cursor/README.md)
+
 
